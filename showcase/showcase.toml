@@ -1,0 +1,11 @@
+[[media]]
+file = "connections.json.gz"
+name = "Three channels, one shared bench"
+
+[[media]]
+file = "bench.png"
+name = "Every charge has a purpose"
+
+[[media]]
+file = "title.png"
+name = "Draw the light"
